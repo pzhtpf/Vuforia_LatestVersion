@@ -1,0 +1,16 @@
+PODS:
+  - Vuforia_LatestVersion (0.1.0)
+
+DEPENDENCIES:
+  - Vuforia_LatestVersion (from `../`)
+
+EXTERNAL SOURCES:
+  Vuforia_LatestVersion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Vuforia_LatestVersion: 1fedbc8e7d7741df8b9f9b548cc05a8bc21ec122
+
+PODFILE CHECKSUM: e6f9dd1b3599a6b18c264e8130822fe4f63b6570
+
+COCOAPODS: 1.2.1

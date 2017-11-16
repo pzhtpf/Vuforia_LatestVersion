@@ -1,0 +1,1 @@
+../../../../../Vuforia_LatestVersion/Vuforia/Marker.h
