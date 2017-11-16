@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Vuforia_LatestVersion_Example' do
+  pod 'Vuforia_LatestVersion', :path => '../'
+
+  target 'Vuforia_LatestVersion_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
